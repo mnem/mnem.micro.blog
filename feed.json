@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Wagner",
+	"icon": "https://micro.blog/mnem/avatar.jpg",
+	"home_page_url": "https://mnem.micro.blog/",
+	"feed_url": "https://mnem.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mnem.micro.blog/2021/07/27/i-wonder-what.html",
+				"title": "🤔",
+				"content_html": "<p>I wonder what I&rsquo;ll make with this place?</p>\n\n<p><img src=\"uploads/2021/c09fae1b74.jpg\" /></p>\n",
+				"content_text": "I wonder what I'll make with this place?\n\n<img src=\"uploads/2021/c09fae1b74.jpg\" />\n",
+				"date_published": "2021-07-27T19:12:19+01:00",
+				"url": "https://mnem.micro.blog/2021/07/27/i-wonder-what.html"
+			}
+	]
+}
